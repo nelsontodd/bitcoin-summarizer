@@ -1,0 +1,3 @@
+[submodule "bitcoin-iterate"]
+	path = bitcoin-iterate
+	url = git@github.com:unchained-capital/bitcoin-iterate.git
